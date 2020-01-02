@@ -99,6 +99,7 @@ Install:
 ## App Manual
 
 1. https://zim-wiki.org/ + create an Automator script
+2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ## App Store
 
