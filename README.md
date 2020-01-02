@@ -12,16 +12,25 @@ Install:
 1. CLI
 
    ```
-
+   brew install gnupg \
+                git \
+                jq \
+                wget \
+                golang \
+                python3 \
+                httpie \
+                tree \
+                ack \
+                pyenv \
+                neovim # add alias alias vim='nvim'   
    ```
 
+2. fonts:
 
-1. fonts:
-
-```
-brew cask install font-source-code-pro
-brew cask install font-hack
-```
+   ```
+   brew cask install font-source-code-pro
+   brew cask install font-hack
+   ```
 
 2. Applications:
 
