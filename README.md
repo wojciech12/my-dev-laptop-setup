@@ -30,8 +30,8 @@ Install:
 2. fonts:
 
    ```
-   brew cask install font-source-code-pro
-   brew cask install font-hack
+   brew cask install font-source-code-pro \
+                     font-hack
    ```
 
 2. Applications:
@@ -84,7 +84,7 @@ Install:
                 minikube
    ```
 
-4. LATEX
+4. Latex
 
    ```
    brew cask install mactex 
