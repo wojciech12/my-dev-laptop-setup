@@ -47,7 +47,8 @@ Install:
    ```
    brew cask install atom \
                      oni \
-                     visual-studio-code
+                     visual-studio-code \
+                     sourcetree # best GUI for git
    ```
 
    ```
@@ -55,16 +56,15 @@ Install:
                       sublime-text # my fav
    ````
 
-Utils ([Amethyst](https://ianyh.com/amethyst/) and keepingyouawake):
+   Utils ([Amethyst](https://ianyh.com/amethyst/) and keepingyouawake):
 
-```
-brew cask install amethyst 
-brew cask install keepingyouawake
-```
+   ```
+   brew cask install amethyst \
+                     keepingyouawake
+   ```
 
-Extras:
+   Password manager (optional):
 
-```
-brew cask install keepassx
-brew cask install sourcetree
-```
+   ```
+   brew cask install keepassx
+   ```
