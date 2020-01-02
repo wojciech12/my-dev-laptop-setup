@@ -77,7 +77,7 @@ Install:
 
 ## App Configuration
 
-# VSCode
+### VSCode
 
 ```
 code --list-extensions
@@ -86,3 +86,19 @@ code --install-extension ms-python.python
 code --install-extension ms-vscode.go
 code --install-extension vscodevim.vim
 ```
+
+### InteliJ
+
+TBD
+
+## Security
+
+
+### App
+
+- Firewall [Lulu](https://github.com/objective-see/LuLu) 
+
+See also: 
+
+- https://github.com/0xmachos/mOSL
+- https://blog.bejarano.io/hardening-macos/
