@@ -136,10 +136,10 @@ See also:
 
 1. Select System Preferences > Security & Privacy:
 
-- Under General, set require a password after sleep or screen saver begins to immediately
-- Click Advanced… and select Require an administrator password to access system-wide preferences
-- Under Firewall, click Turn Firewall On.
-- Under Privacy, select Analytics and ensure that the options are not enabled.
+   - Under General, set require a password after sleep or screen saver begins to immediately
+   - Click Advanced… and select Require an administrator password to access system-wide preferences
+   - Under Firewall, click Turn Firewall On.
+   - Under Privacy, select Analytics and ensure that the options are not enabled.
 
 2. Enable file enryption.
 
