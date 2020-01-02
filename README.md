@@ -1,5 +1,7 @@
 # MAC Dev Setup
 
+## 
+
 ## Init
 
 Install:
@@ -74,6 +76,19 @@ Install:
    ```
    brew cask install opera
    ```
+   
+3. Kuberneres:
+
+   ```
+   brew install kubernetes-cli \
+                minikube
+   ```
+
+4 LATEX
+
+  ```
+  brew cask install mactex 
+  ```
 
 ## App Configuration
 
