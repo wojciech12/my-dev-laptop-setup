@@ -84,7 +84,7 @@ Install:
                 minikube
    ```
 
-4 LATEX
+4. LATEX
 
   ```
   brew cask install mactex 
