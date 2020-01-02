@@ -80,7 +80,8 @@ Install:
 
    ```
    brew install kubernetes-cli \
-                minikube
+                minikube \
+                kubectx
    ```
 
 5. Latex
