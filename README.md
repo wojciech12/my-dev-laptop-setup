@@ -89,8 +89,16 @@ Install:
    ```
    brew cask install mactex 
    ```
+   
+## App Store
+
+If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas)
 
 ## App Configuration
+
+## Iterm2
+
+see: https://github.com/nicolashery/mac-dev-setup#iterm2
 
 ### VSCode
 
@@ -108,8 +116,7 @@ TBD
 
 ## Security
 
-
-### App
+TDA
 
 - Firewall [Lulu](https://github.com/objective-see/LuLu) 
 
@@ -119,6 +126,8 @@ See also:
 - https://blog.bejarano.io/hardening-macos/
 
 ## OSX
+
+### Security
 
 1. Select System Preferences > Security & Privacy:
 
@@ -130,6 +139,12 @@ See also:
 2. Enable file enryption.
 
 3. Configure a hot corner - bottom left to lock the Screen.
+
+### Finder
+
+1. Add Hard Disk to locations
+2. Put home dir to favorites
+3. View -> Show Path Ba
 
 ## References
 
