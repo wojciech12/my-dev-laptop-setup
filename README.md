@@ -1,7 +1,5 @@
 # MAC Dev Setup
 
-## 
-
 ## Init
 
 Install:
