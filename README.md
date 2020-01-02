@@ -129,8 +129,7 @@ See also:
 
 2. Enable file enryption.
 
-3. Lock screen corner - Lock Screen.
-
+3. Configure a hot corner - bottom left to lock the Screen.
 
 ## References
 
