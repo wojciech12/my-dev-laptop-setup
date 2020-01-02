@@ -50,12 +50,6 @@ Install:
                      sourcetree # best GUI for git
    ```
 
-   ```
-   brew cask install  virtualbox \
-                      vagrant \
-                      sublime-text # my fav
-   ````
-
    Utils ([Amethyst](https://ianyh.com/amethyst/) and keepingyouawake):
 
    ```
@@ -74,18 +68,31 @@ Install:
    ```
    brew cask install opera
    ```
-   
-3. Kuberneres:
+
+3. Virtualbox:
+
+   ```
+   brew cask install  virtualbox \
+                      vagrant
+   ````
+
+4. Kuberneres:
 
    ```
    brew install kubernetes-cli \
                 minikube
    ```
 
-4. Latex
+5. Latex
 
    ```
    brew cask install mactex 
+   ```
+   
+6. Misc
+
+   ```
+   brew cask install sublime-text
    ```
    
 ## App Store
