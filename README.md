@@ -9,6 +9,13 @@ Install:
 
 ## Basics
 
+1. CLI
+
+```
+
+```
+
+
 1. fonts:
 
 ```
@@ -38,3 +45,17 @@ brew cask install atom \
 brew cask install  virtualbox \
                    sublime-text # my fav
 ````
+
+Utils ([Amethyst](https://ianyh.com/amethyst/) and keepingyouawake):
+
+```
+brew cask install amethyst 
+brew cask install keepingyouawake
+```
+
+Extras:
+
+```
+brew cask install keepassx
+brew cask install sourcetree
+```
