@@ -119,6 +119,14 @@ code --install-extension vscodevim.vim
 
 TBD
 
+### CLI: zprezto
+
+TBD
+
+### CLI: aliases
+
+TBD
+
 ## Security
 
 TDA
