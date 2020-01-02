@@ -86,9 +86,9 @@ Install:
 
 4. LATEX
 
-  ```
-  brew cask install mactex 
-  ```
+   ```
+   brew cask install mactex 
+   ```
 
 ## App Configuration
 
