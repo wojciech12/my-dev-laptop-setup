@@ -68,3 +68,21 @@ Install:
    ```
    brew cask install keepassx
    ```
+   
+   Extras:
+   
+   ```
+   brew cask install opera
+   ```
+
+## App Configuration
+
+# VSCode
+
+```
+code --list-extensions
+
+code --install-extension ms-python.python
+code --install-extension ms-vscode.go
+code --install-extension vscodevim.vim
+```
