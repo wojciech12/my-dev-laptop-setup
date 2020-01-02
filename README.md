@@ -95,7 +95,11 @@ Install:
    ```
    brew cask install sublime-text
    ```
-   
+
+## App Manual
+
+1. https://zim-wiki.org/ + create an Automator script
+
 ## App Store
 
 If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas)
