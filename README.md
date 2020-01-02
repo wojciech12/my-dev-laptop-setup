@@ -34,26 +34,26 @@ Install:
 
 2. Applications:
 
-```
-brew cask install firefox \
-                  iterm2 \
-                  google-chrome \
-                  slack \
-                  postico \
-                  docker
+   ```
+   brew cask install firefox \
+                     iterm2 \
+                     google-chrome \
+                     slack \
+                     postico \
+                     docker
                   
-```
+   ```
 
-```
-brew cask install atom \
-                  oni \
-                  visual-studio-code
-```
+   ```
+   brew cask install atom \
+                     oni \
+                     visual-studio-code
+   ```
 
-```
-brew cask install  virtualbox \
-                   sublime-text # my fav
-````
+   ```
+   brew cask install  virtualbox \
+                      sublime-text # my fav
+   ````
 
 Utils ([Amethyst](https://ianyh.com/amethyst/) and keepingyouawake):
 
