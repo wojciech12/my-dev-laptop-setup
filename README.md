@@ -43,7 +43,6 @@ Install:
                      slack \
                      postico \
                      docker
-                  
    ```
 
    ```
@@ -55,6 +54,7 @@ Install:
 
    ```
    brew cask install  virtualbox \
+                      vagrant \
                       sublime-text # my fav
    ````
 
