@@ -117,3 +117,25 @@ See also:
 
 - https://github.com/0xmachos/mOSL
 - https://blog.bejarano.io/hardening-macos/
+
+## OSX
+
+1. Select System Preferences > Security & Privacy:
+
+- Under General, set require a password after sleep or screen saver begins to immediately
+- Click Advanced… and select Require an administrator password to access system-wide preferences
+- Under Firewall, click Turn Firewall On.
+- Under Privacy, select Analytics and ensure that the options are not enabled.
+
+2. Enable file enryption.
+
+3. Lock screen corner - Lock Screen.
+
+
+## References
+
+- https://www.stuartellis.name/articles/mac-setup/
+- https://sourabhbajaj.com/mac-setup/
+- https://github.com/nicolashery/mac-dev-setup
+- https://www.freecodecamp.org/news/set-up-your-macos-development-environment-using-thoughtbots-laptop-script-e6bf9b2e03dd/
+- https://ubiratansoares.dev/post/my-macos-setup/
