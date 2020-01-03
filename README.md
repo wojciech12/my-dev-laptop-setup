@@ -157,7 +157,9 @@ See also:
 
 2. Enable file enryption.
 
-3. Configure a hot corner - bottom left to lock the Screen.
+3. Configure a hot corner - bottom left to lock the Screen - see: https://www.cnet.com/how-to/7-ways-to-lock-your-macbook/
+
+4. Use password manager.
 
 ### Finder
 
