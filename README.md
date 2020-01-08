@@ -39,7 +39,6 @@ Install:
                      iterm2 \
                      google-chrome \
                      slack \
-                     postico \
                      docker
    ```
 
