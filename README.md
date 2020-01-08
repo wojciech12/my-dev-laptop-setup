@@ -127,7 +127,7 @@ TBD
 
 ### CLI: zprezto
 
-TBD
+Install [zprezto](https://github.com/sorin-ionescu/prezto), alternative [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh).
 
 ### CLI: aliases
 
