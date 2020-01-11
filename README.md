@@ -67,15 +67,23 @@ Install:
    ```
    brew cask install opera
    ```
+   
+6. Misc
 
-3. Virtualbox:
+   ```
+   brew cask install sublime-text
+   ```
+   
+## Development
+
+1. Virtualbox:
 
    ```
    brew cask install  virtualbox \
                       vagrant
    ````
 
-4. Kuberneres:
+2. Kuberneres:
 
    ```
    brew install kubernetes-cli \
@@ -83,16 +91,10 @@ Install:
                 kubectx
    ```
 
-5. Latex
+3. Latex
 
    ```
    brew cask install mactex 
-   ```
-   
-6. Misc
-
-   ```
-   brew cask install sublime-text
    ```
    
 ## App Manual
