@@ -49,14 +49,14 @@ Install:
                      sourcetree # best GUI for git
    ```
 
-   Utils ([Amethyst](https://ianyh.com/amethyst/) and keepingyouawake):
+   Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake):
 
    ```
    brew cask install amethyst \
                      keepingyouawake
    ```
 
-   Password manager (optional):
+   My favorite password manager:
 
    ```
    brew cask install keepassx
@@ -68,17 +68,19 @@ Install:
    brew cask install opera
    ```
    
+   Good to practice typing from time to time:
+   
    ```
    brew install gnu-typist
    ```
    
-6. Misc
+6. Solid editor, many ideas in atom or vs-code are directly borrowed from sublime:
 
    ```
    brew cask install sublime-text
    ```
    
-## Development
+## More Development
 
 1. Virtualbox:
 
@@ -95,7 +97,7 @@ Install:
                 kubectx
    ```
 
-3. Latex
+3. Latex - writings:
 
    ```
    brew cask install mactex 
