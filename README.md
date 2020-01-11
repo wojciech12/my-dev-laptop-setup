@@ -109,6 +109,7 @@ Install:
    brew install python@3
    brew install gtk-mac-integration
    brew install pygobject3
+   brew install adwaita-icon-theme # for icons in the zim-wiki UI
    ```
   
    and create in Automator - Application that runs a shell script:
