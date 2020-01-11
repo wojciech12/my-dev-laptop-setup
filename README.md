@@ -120,6 +120,8 @@ Install:
    cd /Users/wb/Applications/zim-0.72.0 ;
    /usr/local/bin/python3 zim.py &>/dev/null &
    ```
+   
+   Now, let's install zim-wiki plugins: Journal and TODO.
 
 2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
