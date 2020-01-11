@@ -99,13 +99,20 @@ Install:
    
 ## App Manual
 
-1. https://zim-wiki.org/ + create an Automator script and deps:
+1. Download https://zim-wiki.org/ , install deps:
 
    ```
+   brew install python@3
    brew install gtk-mac-integration
    brew install pygobject3
    ```
   
+   and create in Automator - Application that runs a shell script:
+
+   ```
+   cd /Users/wb/Applications/zim-0.72.0 ;
+   /usr/local/bin/python3 zim.py &>/dev/null &
+   ```
 
 2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
