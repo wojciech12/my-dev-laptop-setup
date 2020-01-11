@@ -99,7 +99,13 @@ Install:
    
 ## App Manual
 
-1. https://zim-wiki.org/ + create an Automator script, install [deps](https://reagle.org/joseph/zwiki/Archives/2015/Zim_on_Mac_OSX.html)
+1. https://zim-wiki.org/ + create an Automator script, install after [this blog post](https://reagle.org/joseph/zwiki/Archives/2015/Zim_on_Mac_OSX.html):
+   
+   ```
+   brew install gtk-mac-integration
+   ```
+  
+
 2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ## App Store
