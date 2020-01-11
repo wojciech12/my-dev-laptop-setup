@@ -68,6 +68,10 @@ Install:
    brew cask install opera
    ```
    
+   ```
+   brew install gnu-typist
+   ```
+   
 6. Misc
 
    ```
