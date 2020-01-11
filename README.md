@@ -208,6 +208,10 @@ See also:
 2. Put home dir to favorites
 3. View -> Show Path Ba
 
+## Keys re-mapping
+
+1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys
+
 ## References
 
 - https://www.stuartellis.name/articles/mac-setup/
