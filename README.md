@@ -99,10 +99,11 @@ Install:
    
 ## App Manual
 
-1. https://zim-wiki.org/ + create an Automator script, install after [this blog post](https://reagle.org/joseph/zwiki/Archives/2015/Zim_on_Mac_OSX.html):
-   
+1. https://zim-wiki.org/ + create an Automator script and deps:
+
    ```
    brew install gtk-mac-integration
+   brew install pygobject3
    ```
   
 
