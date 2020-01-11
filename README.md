@@ -144,6 +144,28 @@ TBD
 
 Install [zprezto](https://github.com/sorin-ionescu/prezto), alternative [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh).
 
+Plugins, I use:
+
+```
+zstyle ':prezto:load' pmodule \
+  'environment' \
+  'terminal' \
+  'editor' \
+  'history' \
+  'directory' \
+  'spectrum' \
+  'completion' \
+  'prompt' \
+  'git' \
+  'osx' \
+  'tmux' \
+  'fasd' \
+  'gnu-utility' \
+  'utility' \
+  'syntax-highlighting' \
+  'history-substring-search'
+```
+
 ### CLI: aliases
 
 TBD
