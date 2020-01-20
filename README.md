@@ -5,8 +5,9 @@
 * [Development Tools](#developmenttools)
 * [App Installed Manually](#appinstalledmanually)
 * [Configuration](#configuration)
+* [Security](#security)
 * [MacOS configuration](#macos):
-  - [Security](#macossecurity)
+  - [Secure Defaults](#macossecurity)
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
 
@@ -209,8 +210,7 @@ zstyle ':prezto:load' pmodule \
 TBD
 
 ## Security
-
-TDA
+<a name="security">
 
 - Firewall [Lulu](https://github.com/objective-see/LuLu) 
 
@@ -219,7 +219,7 @@ See also:
 - https://github.com/0xmachos/mOSL
 - https://blog.bejarano.io/hardening-macos/
 
-## OSX
+## MacS
 <a name="macs" />
 
 ### Security
