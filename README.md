@@ -99,14 +99,7 @@ Install:
                      sourcetree # best GUI for git
    ```
 
-1. Virtualbox:
-
-   ```
-   brew cask install  virtualbox \
-                      vagrant
-   ````
-
-2. Kuberneres:
+1. Kuberneres:
 
    ```
    brew install kubernetes-cli \
@@ -114,7 +107,7 @@ Install:
                 kubectx
    ```
    
-3. Cloud:
+2. Cloud:
 
    - Azure: ```brew install azure-cli```
    - AWS:
@@ -132,6 +125,13 @@ Install:
    ```
    
    Works really well with scripts for setting your infrastructure.
+   
+5. Virtualbox:
+
+   ```
+   brew cask install  virtualbox \
+                      vagrant
+   ````
    
 ## App Installed Manually
 <a name="appinstalledmanually" />
