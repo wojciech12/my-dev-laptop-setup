@@ -96,6 +96,11 @@ Install:
                 minikube \
                 kubectx
    ```
+   
+3. Cloud:
+
+   - Azure: ```brew install azure-cli```
+   - AWS:
 
 3. Latex - writings:
 
