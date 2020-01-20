@@ -98,6 +98,12 @@ Install:
                      visual-studio-code \
                      sourcetree # best GUI for git
    ```
+   
+   [Hub](https://hub.github.com/) for working with github:
+
+   ```
+   brew install hub
+   ```
 
 1. Kuberneres:
 
