@@ -116,10 +116,10 @@ Install:
 1. Download https://zim-wiki.org/ , install deps:
 
    ```
-   brew install python@3
-   brew install gtk-mac-integration
-   brew install pygobject3
-   brew install adwaita-icon-theme # for icons in the zim-wiki UI
+   brew install python@3 \
+                gtk-mac-integration \
+                pygobject3 \
+                adwaita-icon-theme # for icons in the zim-wiki UI
    ```
   
    and create in Automator - Application that runs a shell script:
