@@ -3,6 +3,7 @@
 * [First steps](#firststeps)
 * [Basics](#basics)
 * [Development Tools](#developmenttools)
+* [App Installed Manually](#appinstalledmanually)
 
 ## First steps
 <a name="firststeps" />
@@ -87,7 +88,7 @@ Install:
    brew cask install sublime-text
    ```
    
-## More Development
+## Development Tools
 <a name="developmenttools" />
 
 1. Virtualbox:
@@ -124,7 +125,8 @@ Install:
    
    Works really well with scripts for setting your infrastructure.
    
-## App Manual
+## App Installed Manually
+<a name="appinstalledmanually" />
 
 1. Download https://zim-wiki.org/ , install deps:
 
