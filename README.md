@@ -104,8 +104,14 @@ Install:
    ```
    brew install hub
    ```
+   
+1. Jetbrains:
 
-1. Kuberneres:
+   ```
+   brew cask install intellij-idea
+   ``
+
+2. Kuberneres:
 
    ```
    brew install kubernetes-cli \
@@ -113,18 +119,18 @@ Install:
                 kubectx
    ```
    
-2. Cloud:
+3. Cloud:
 
    - Azure: ```brew install azure-cli```
    - AWS:
 
-3. Latex - writings:
+4. Latex - writings:
 
    ```
    brew cask install mactex 
    ```
 
-4. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
+5. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
    
    ```
    brew install gopass
@@ -132,7 +138,7 @@ Install:
    
    Works really well with scripts for setting your infrastructure.
    
-5. Virtualbox:
+6. Virtualbox:
 
    ```
    brew cask install  virtualbox \
