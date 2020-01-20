@@ -1,6 +1,9 @@
 # MAC Dev Setup
 
-## Init
+[First steps](#firststeps)
+
+<a name="firststeps" />
+## First steps
 
 Install:
 
