@@ -1,6 +1,7 @@
 # MAC Dev Setup
 
-[First steps](#firststeps)
+* [First steps](#firststeps)
+* [Basics](#basics)
 
 <a name="firststeps" />
 ## First steps
@@ -10,6 +11,7 @@ Install:
 - [brew](https://brew.sh/) - package manager for installing all other software
 - [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
 
+<a name="basics" />
 ## Basics
 
 1. CLI
