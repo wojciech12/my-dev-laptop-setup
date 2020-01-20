@@ -56,13 +56,6 @@ Install:
                      docker
    ```
 
-   ```
-   brew cask install atom \
-                     oni \
-                     visual-studio-code \
-                     sourcetree # best GUI for git
-   ```
-
    Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake):
 
    ```
@@ -96,6 +89,15 @@ Install:
    
 ## Development Tools
 <a name="developmenttools" />
+
+0. IDE / Coding Tools:
+ 
+   ```
+   brew cask install atom \
+                     oni \
+                     visual-studio-code \
+                     sourcetree # best GUI for git
+   ```
 
 1. Virtualbox:
 
