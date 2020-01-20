@@ -6,7 +6,7 @@
 * [App Installed Manually](#appinstalledmanually)
 * [Configuration](#configuration)
 * [Security](#security)
-* [MacOS configuration](#macos):
+* [MacOS configuration](#macos)
   - [Secure Defaults](#macossecurity)
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
