@@ -109,6 +109,8 @@ Install:
    brew install gopass
    ```
    
+   Works really well with scripts for setting your infrastructure.
+   
 ## App Manual
 
 1. Download https://zim-wiki.org/ , install deps:
