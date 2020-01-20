@@ -3,16 +3,17 @@
 * [First steps](#firststeps)
 * [Basics](#basics)
 
-<a name="firststeps" />
 ## First steps
+<a name="firststeps" />
 
 Install:
 
 - [brew](https://brew.sh/) - package manager for installing all other software
 - [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
 
-<a name="basics" />
+
 ## Basics
+<a name="basics" />
 
 1. CLI
 
