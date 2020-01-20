@@ -5,6 +5,10 @@
 * [Development Tools](#developmenttools)
 * [App Installed Manually](#appinstalledmanually)
 * [Configuration](#configuration)
+* [MacOS configuration](#macos):
+  - [Security](#macossecurity)
+  - [Finder](#macosfinder)
+  - 
 
 ## First steps
 <a name="firststeps" />
@@ -216,8 +220,10 @@ See also:
 - https://blog.bejarano.io/hardening-macos/
 
 ## OSX
+<a name="macs" />
 
 ### Security
+<a name="macossecurity" />
 
 1. Select System Preferences > Security & Privacy:
 
@@ -233,12 +239,14 @@ See also:
 4. Use password manager.
 
 ### Finder
+<a name="macosfinder" />
 
 1. Add Hard Disk to locations
 2. Put home dir to favorites
 3. View -> Show Path Ba
 
 ## Keys re-mapping
+<a name="osxkeyremapping" />
 
 1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys
 
