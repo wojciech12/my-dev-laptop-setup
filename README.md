@@ -224,7 +224,7 @@ See also:
 ## MacS
 <a name="macs" />
 
-### Security
+### Secure Configuration
 <a name="macossecurity" />
 
 1. Select System Preferences > Security & Privacy:
