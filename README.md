@@ -59,7 +59,7 @@ Install:
    My favorite password manager:
 
    ```
-   brew cask install keepassx
+   brew cask install keepassx 
    ```
    
    Extras:
@@ -101,6 +101,12 @@ Install:
 
    ```
    brew cask install mactex 
+   ```
+
+4. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
+   
+   ```
+   brew install gopass
    ```
    
 ## App Manual
