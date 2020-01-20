@@ -8,7 +8,7 @@
 * [MacOS configuration](#macos):
   - [Security](#macossecurity)
   - [Finder](#macosfinder)
-  - 
+  - [Key Remmaping](#osxkeyremapping)
 
 ## First steps
 <a name="firststeps" />
