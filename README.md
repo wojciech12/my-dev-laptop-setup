@@ -4,6 +4,7 @@
 * [Basics](#basics)
 * [Development Tools](#developmenttools)
 * [App Installed Manually](#appinstalledmanually)
+* [Configuration](#configuration)
 
 ## First steps
 <a name="firststeps" />
@@ -150,11 +151,12 @@ Install:
 
 ## App Store
 
-If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas)
+TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas).
 
-## App Configuration
+## Configuration
+<a name="configuration" />
 
-## Iterm2
+### Iterm2
 
 see: https://github.com/nicolashery/mac-dev-setup#iterm2
 
