@@ -109,7 +109,7 @@ Install:
 
    ```
    brew cask install intellij-idea
-   ``
+   ```
 
 2. Kuberneres:
 
