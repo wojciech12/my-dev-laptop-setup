@@ -168,6 +168,12 @@ Install:
 
 2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
+## Docs, Diagrams, etc
+
+```
+brew cask install yed
+```
+
 ## App Store
 
 TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas).
@@ -259,7 +265,7 @@ See also:
 2. Put home dir to favorites
 3. View -> Show Path Ba
 
-## Keys re-mapping
+### Keys re-mapping
 <a name="osxkeyremapping" />
 
 1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys
