@@ -3,6 +3,7 @@
 * [First steps](#firststeps)
 * [Basics](#basics)
 * [Development Tools](#developmenttools)
+* [Apps for Docs and Diagrams](#docsanddiagrams)
 * [App Installed Manually](#appinstalledmanually)
 * [Configuration](#configuration)
 * [Security](#security)
@@ -168,7 +169,8 @@ Install:
 
 2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
-## Docs, Diagrams, etc
+## Apps for Docs, Diagrams, etc
+<a name="docsanddiagrams" />
 
 ```
 brew cask install yed
