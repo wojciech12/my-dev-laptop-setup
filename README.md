@@ -124,6 +124,10 @@ Install:
 
    - Azure: ```brew install azure-cli```
    - AWS:
+   
+   ```
+   brew install terraform
+   ```
 
 4. Latex - writings:
 
