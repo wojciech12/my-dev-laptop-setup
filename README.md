@@ -119,6 +119,13 @@ Install:
                 minikube \
                 kubectx
    ```
+
+   [Telepresence](https://www.telepresence.io/):
+   
+   ```
+   brew cask install osxfuse
+   brew install datawire/blackbird/telepresence
+   ```
    
 3. Cloud:
 
