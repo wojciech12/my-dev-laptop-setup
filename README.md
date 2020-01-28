@@ -126,6 +126,13 @@ Install:
    brew cask install osxfuse
    brew install datawire/blackbird/telepresence
    ```
+
+   Promtools:
+
+   ```
+   brew install prometheus
+   brew install alertmanager
+   ```
    
 3. Cloud:
 
