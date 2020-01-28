@@ -131,7 +131,6 @@ Install:
 
    ```
    brew install prometheus
-   brew install alertmanager
    ```
    
 3. Cloud:
