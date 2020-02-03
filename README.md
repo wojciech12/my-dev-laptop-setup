@@ -55,7 +55,8 @@ Install:
                      iterm2 \
                      google-chrome \
                      slack \
-                     docker
+                     docker \
+                     thunderbird
    ```
 
    Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake):
