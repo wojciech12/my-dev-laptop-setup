@@ -37,6 +37,7 @@ Install:
                 tree \
                 ack \
                 pyenv \
+                watch \
                 neovim # add alias alias vim='nvim'   
    ```
 
