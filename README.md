@@ -137,12 +137,14 @@ Install:
    
 3. Cloud:
 
-   - Azure: ```brew install azure-cli```
-   - AWS:
+   - Fundamentals:
    
      ```
      brew install terraform
      ```
+
+   - Azure: ```brew install azure-cli```
+   - AWS (check also [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)): ```brew install awscli```
 
 4. Latex - writings:
 
