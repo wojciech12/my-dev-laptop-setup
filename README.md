@@ -159,11 +159,12 @@ Install:
    
    Works really well with scripts for setting your infrastructure.
    
-5. Virtualbox:
+5. Virtualbox with vagrant and packer:
 
    ```
-   brew cask install  virtualbox \
-                      vagrant
+   brew cask install virtualbox \
+                     vagrant \
+                     packer
    ````
    
 ### App Installed Manually
