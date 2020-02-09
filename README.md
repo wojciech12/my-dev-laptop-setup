@@ -167,7 +167,7 @@ Install:
                      packer
    ````
    
-### App Installed Manually
+### Notes
 <a name="appinstalledmanually" />
 
 1. Download https://zim-wiki.org/ , install deps:
@@ -187,8 +187,6 @@ Install:
    ```
    
    Now, let's install zim-wiki plugins: Journal and TODO.
-
-2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ### Apps for Docs, Diagrams, etc
 <a name="docsanddiagrams" />
@@ -218,6 +216,10 @@ See also:
 
 - https://github.com/0xmachos/mOSL
 - https://blog.bejarano.io/hardening-macos/
+
+### Misc
+
+- White noice generator: http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ## Configuration
 <a name="configuration" />
