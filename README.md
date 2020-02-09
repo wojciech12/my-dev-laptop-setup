@@ -6,6 +6,7 @@
   - [Development Tools](#developmenttools)
   - [Docs and Diagrams](#docsanddiagrams)
   - [Security](#security)
+  - [misc](#misc)
 * [Configuration](#configuration)
 * [MacOS configuration](#macos)
   - [Finder](#macosfinder)
