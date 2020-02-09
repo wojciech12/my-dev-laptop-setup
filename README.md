@@ -5,6 +5,7 @@
   - [Essentials](#basics)
   - [Development Tools](#developmenttools)
   - [Docs and Diagrams](#docsanddiagrams)
+  - [Notes and Engineering Diary](#notes)
   - [Security](#security)
   - [misc](#misc)
 * [Configuration](#configuration)
