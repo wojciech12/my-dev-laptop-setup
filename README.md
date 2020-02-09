@@ -7,7 +7,6 @@
   - [Docs and Diagrams](#docsanddiagrams)
   - [Security](#security)
 * [Configuration](#configuration)
-* [Security](#security)
 * [MacOS configuration](#macos)
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
