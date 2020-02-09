@@ -8,7 +8,7 @@
 * [Configuration](#configuration)
 * [Security](#security)
 * [MacOS configuration](#macos)
-  - [Secure Defaults](#macossecurity)
+  - [Security](#macossecurity)
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
 
@@ -262,10 +262,20 @@ See also:
 - https://github.com/0xmachos/mOSL
 - https://blog.bejarano.io/hardening-macos/
 
-## MacS
+## Browsers
+
+- Firefox (90% what I do), addons:
+
+  - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
+
+- Chrome (for internal tools: github panel, aws console, azure...):
+
+  - [Refined Github](https://github.com/sindresorhus/refined-github)
+
+## Mac Configuration
 <a name="macs" />
 
-### Secure Configuration
+### Security
 <a name="macossecurity" />
 
 1. Select System Preferences > Security & Privacy:
