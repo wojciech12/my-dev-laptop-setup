@@ -82,13 +82,13 @@ Install:
    brew install gnu-typist
    ```
    
-6. Solid editor, many ideas in atom or vs-code are directly borrowed from sublime:
+3. Solid editor, many ideas in atom or vs-code are directly borrowed from sublime:
 
    ```
    brew cask install sublime-text
    ```
    
-7. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
+4. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
 
    ```
    brew cask install michaelvillar-timer
