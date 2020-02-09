@@ -5,10 +5,10 @@
   - [Essentials](#basics)
   - [Development Tools](#developmenttools)
   - [Docs and Diagrams](#docsanddiagrams)
+  - [Security](#security)
 * [Configuration](#configuration)
 * [Security](#security)
 * [MacOS configuration](#macos)
-  - [Security](#macossecurity)
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
 
@@ -207,6 +207,18 @@ Install:
 
 <!-- TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas). -->
 
+<a name="docsanddiagrams" />
+
+### Security
+<a name="security">
+
+- Firewall [Lulu](https://github.com/objective-see/LuLu) 
+
+See also: 
+
+- https://github.com/0xmachos/mOSL
+- https://blog.bejarano.io/hardening-macos/
+
 ## Configuration
 <a name="configuration" />
 
@@ -257,16 +269,6 @@ zstyle ':prezto:load' pmodule \
 ### CLI: aliases
 
 TBD
-
-## Security
-<a name="security">
-
-- Firewall [Lulu](https://github.com/objective-see/LuLu) 
-
-See also: 
-
-- https://github.com/0xmachos/mOSL
-- https://blog.bejarano.io/hardening-macos/
 
 ## Browsers
 
