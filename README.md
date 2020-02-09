@@ -118,7 +118,7 @@ Install:
    brew cask install intellij-idea
    ```
 
-2. Kuberneres:
+2. Kubernetes:
 
    ```
    brew install kubernetes-cli \
@@ -139,24 +139,20 @@ Install:
    brew install prometheus
    ```
    
-3. Cloud:
+3. Cloud Platoforms
 
    - Fundamentals:
    
      ```
      brew install terraform
      ```
+     
+     Check also [terragrunt](https://github.com/gruntwork-io/terragrunt)
 
    - Azure: ```brew install azure-cli```
    - AWS (check also [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)): ```brew install awscli```
 
-4. Latex - writings:
-
-   ```
-   brew cask install mactex 
-   ```
-
-5. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
+4. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
    
    ```
    brew install gopass
@@ -164,7 +160,7 @@ Install:
    
    Works really well with scripts for setting your infrastructure.
    
-6. Virtualbox:
+5. Virtualbox:
 
    ```
    brew cask install  virtualbox \
@@ -197,9 +193,17 @@ Install:
 ### Apps for Docs, Diagrams, etc
 <a name="docsanddiagrams" />
 
-```
-brew cask install yed
-```
+1. Latex - writings:
+
+   ```
+   brew cask install mactex 
+   ```
+
+2. High Q diagrams:
+
+   ```
+   brew cask install yed
+   ```
 
 <!-- TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas). -->
 
