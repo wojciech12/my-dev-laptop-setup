@@ -49,7 +49,8 @@ Install:
 
    ```
    brew cask install font-source-code-pro \
-                     font-hack
+                     font-hack \
+                     font-work-sans # font from the golang brand book
    ```
 
 2. Applications:
