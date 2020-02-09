@@ -90,6 +90,12 @@ Install:
    brew cask install sublime-text
    ```
    
+7. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
+
+   ```
+   brew cask install michaelvillar-timer
+   ```   
+
 ## Development Tools
 <a name="developmenttools" />
 
