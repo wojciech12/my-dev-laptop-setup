@@ -1,10 +1,10 @@
 # MAC Dev Setup
 
-* [First steps](#firststeps)
-* [Basics](#basics)
-* [Development Tools](#developmenttools)
-* [Apps for Docs and Diagrams](#docsanddiagrams)
-* [App Installed Manually](#appinstalledmanually)
+* [Installation](#instalation)
+  - [First steps](#firststeps)
+  - [Essentials](#basics)
+  - [Development Tools](#developmenttools)
+  - [Docs and Diagrams](#docsanddiagrams)
 * [Configuration](#configuration)
 * [Security](#security)
 * [MacOS configuration](#macos)
@@ -12,7 +12,10 @@
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
 
-## First steps
+## Installation
+<a name="instalation">
+
+### First steps
 <a name="firststeps" />
 
 Install:
@@ -21,7 +24,7 @@ Install:
 - [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
 
 
-## Basics
+### Essentials
 <a name="basics" />
 
 1. CLI
@@ -41,7 +44,7 @@ Install:
                 neovim # add alias alias vim='nvim'   
    ```
 
-2. fonts:
+2. Fonts:
 
    ```
    brew cask install font-source-code-pro \
@@ -54,6 +57,7 @@ Install:
    brew cask install firefox \
                      iterm2 \
                      google-chrome \
+                     opera \
                      slack \
                      docker \
                      thunderbird
@@ -70,12 +74,6 @@ Install:
 
    ```
    brew cask install keepassx 
-   ```
-   
-   Extras:
-   
-   ```
-   brew cask install opera
    ```
    
    Good to practice typing from time to time:
@@ -96,7 +94,7 @@ Install:
    brew cask install michaelvillar-timer
    ```   
 
-## Development Tools
+### Development Tools
 <a name="developmenttools" />
 
 0. IDE / Coding Tools:
@@ -173,7 +171,7 @@ Install:
                       vagrant
    ````
    
-## App Installed Manually
+### App Installed Manually
 <a name="appinstalledmanually" />
 
 1. Download https://zim-wiki.org/ , install deps:
@@ -196,16 +194,14 @@ Install:
 
 2. http://gnaural.sourceforge.net/help/JavaGnaural.html
 
-## Apps for Docs, Diagrams, etc
+### Apps for Docs, Diagrams, etc
 <a name="docsanddiagrams" />
 
 ```
 brew cask install yed
 ```
 
-## App Store
-
-TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas).
+<!-- TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas). -->
 
 ## Configuration
 <a name="configuration" />
