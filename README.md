@@ -124,6 +124,7 @@ Install:
 
    ```
    brew install kubernetes-cli \
+                k3d \
                 minikube \
                 kubectx
    ```
