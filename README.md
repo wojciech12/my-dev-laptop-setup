@@ -153,7 +153,10 @@ Install:
      Check also [terragrunt](https://github.com/gruntwork-io/terragrunt)
 
    - Azure: ```brew install azure-cli```
-   - AWS (check also [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)): ```brew install awscli```
+   - AWS (check also [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)):
+   
+     - ```brew install awscli```
+     - install browser plugin for simplier switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
 
 4. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
    
