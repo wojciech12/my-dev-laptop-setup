@@ -118,7 +118,7 @@ Install:
    
    ```
    brew cask install nosqlbooster-for-mongodb
-   brew install mongo
+   brew install mongodb-community
    ```
    
 1. Jetbrains:
