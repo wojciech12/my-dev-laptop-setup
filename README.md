@@ -114,6 +114,12 @@ Install:
    brew install hub
    ```
    
+   Db:
+   
+   ```
+   brew cask install nosqlbooster-for-mongodb
+   ```
+   
 1. Jetbrains:
 
    ```
