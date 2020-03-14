@@ -183,6 +183,12 @@ Install:
                      packer
    ````
    
+6. Machine Learning:
+
+   ```
+   brew cask install anaconda
+   ```
+   
 ### Notes
 <a name="appinstalledmanually" />
 
