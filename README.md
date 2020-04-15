@@ -306,6 +306,8 @@ TBD
 
   - [Refined Github](https://github.com/sindresorhus/refined-github)
 
+Set default search engine to google.com with no localization, see [my blog post](http://wbarczynski.pl/when-google-localization-drives-you-nuts/).
+
 ## Mac Configuration
 <a name="macs" />
 
