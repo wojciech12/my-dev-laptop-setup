@@ -194,20 +194,19 @@ Install:
 
 So far zim-wiki works for me the best.
 
-Download https://zim-wiki.org/ , install deps:
-
 ```
 brew install python@3 \
              gtk-mac-integration \
              pygobject3 \
              adwaita-icon-theme # for icons in the zim-wiki UI
+
+brew install zim
 ```
   
 and create in Automator - Application that runs a shell script:
 
 ```
-cd /Users/wb/Applications/zim-0.72.0 ;
-/usr/local/bin/python3 zim.py &>/dev/null &
+zim
 ```
 
 Now, let's install zim-wiki plugins: Journal and TODO.
