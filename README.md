@@ -50,6 +50,7 @@ Install:
    ```
    brew cask install font-source-code-pro \
                      font-hack \
+                     font-fira-sans \
                      font-work-sans # font from the golang brand book
    ```
 
@@ -63,6 +64,10 @@ Install:
                      slack \
                      docker \
                      thunderbird
+   ```
+   
+   ```
+   brew cask install discord
    ```
 
    Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake):
