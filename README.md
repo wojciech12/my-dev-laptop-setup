@@ -48,10 +48,13 @@ Install:
 2. Fonts:
 
    ```
-   brew cask install font-source-code-pro \
-                     font-hack \
-                     font-fira-sans \
-                     font-work-sans # font from the golang brand book
+  
+   brew tap homebrew/cask-fonts 
+   brew install svn
+   brew install font-source-code-pro \
+                font-hack \
+                font-fira-sans \
+                font-work-sans --cask # font from the golang brand book
    ```
 
 2. Applications:
