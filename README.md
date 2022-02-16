@@ -73,10 +73,10 @@ Install:
    ```
    
    ```
-   brew cask install discord
+   brew install discord --cask
    ```
 
-   Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake):
+   Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake)):
 
    ```
    brew cask install amethyst \
