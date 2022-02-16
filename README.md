@@ -60,13 +60,16 @@ Install:
 2. Applications:
 
    ```
-   brew cask install firefox \
-                     iterm2 \
-                     google-chrome \
-                     opera \
-                     slack \
-                     docker \
-                     thunderbird
+   brew install firefox \
+                iterm2 \
+                google-chrome \
+                opera \
+                slack --cask
+   ```
+   
+   ```
+   brew install docker --cask
+   brew install opera --cask
    ```
    
    ```
