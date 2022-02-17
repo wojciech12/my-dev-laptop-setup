@@ -52,7 +52,7 @@ Install:
    brew tap homebrew/cask-fonts 
    brew install svn
    brew install font-source-code-pro \
-                font-hack \
+                font-fira-code-nerd-font \
                 font-fira-sans \
                 font-work-sans --cask # font from the golang brand book
    ```
@@ -264,7 +264,7 @@ see: https://github.com/nicolashery/mac-dev-setup#iterm2
   
 - Atom One Dark or Pastel (Dark Background)
 - Alert: visual
-- Font: Hack (font-hack)
+- Font: font-fira-code-nerd-font (font-hack)
 
 ### VSCode
 
