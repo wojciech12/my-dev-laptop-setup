@@ -261,6 +261,10 @@ See also:
 ### Iterm2
 
 see: https://github.com/nicolashery/mac-dev-setup#iterm2
+  
+- Atom One Dark or Pastel (Dark Background)
+- Alert: visual
+- Font: Hack (font-hack)
 
 ### VSCode
 
