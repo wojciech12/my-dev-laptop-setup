@@ -68,8 +68,7 @@ Install:
    ```
    
    ```
-   brew install docker --cask
-   brew install opera --cask
+   brew install --cast rancher
    ```
    
    ```
@@ -98,13 +97,13 @@ Install:
 3. Solid editor, many ideas in atom or vs-code are directly borrowed from sublime:
 
    ```
-   brew cask install sublime-text
+   brew install sublime-text --cask
    ```
    
 4. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
 
    ```
-   brew cask install michaelvillar-timer
+   brew install michaelvillar-timer --cask
    ```   
 
 ### Development Tools
