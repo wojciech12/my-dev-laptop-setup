@@ -51,7 +51,9 @@ Install:
   
    brew tap homebrew/cask-fonts 
    brew install svn
-   brew install font-source-code-pro \
+   brew install font-monaspace \
+                font-source-code-pro \
+                font-jetbrains-mono \
                 font-fira-code-nerd-font \
                 font-fira-sans \
                 font-work-sans --cask # font from the golang brand book
@@ -112,9 +114,7 @@ Install:
 0. IDE / Coding Tools:
  
    ```
-   brew cask install atom \
-                     oni \
-                     visual-studio-code \
+   brew cask install visual-studio-code \
                      sourcetree # best GUI for git
    ```
    
@@ -166,7 +166,7 @@ Install:
    - Fundamentals:
    
      ```
-     brew install terraform
+     brew install opentofu
      ```
      
      Check also [terragrunt](https://github.com/gruntwork-io/terragrunt)
