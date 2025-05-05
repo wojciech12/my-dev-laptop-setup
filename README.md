@@ -60,7 +60,7 @@ Install:
                 font-work-sans --cask # font from the golang brand book
    ```
 
-   I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal.
+   I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal. `Source Code Pro` is also very readable font family.
 
 2. Applications:
 
