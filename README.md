@@ -247,7 +247,7 @@ code --install-extension vscodevim.vim
 
 Settings -> User -> Font Family:
 
-`Jetbrains Mono, FiraCode Nerd Font Mono, FiraCode Nerd Font, Fire Code, Fira Sans, Menlo, Monaco, 'Courier New', monospace`
+`Jetbrains Mono, Iosevka Term, FiraCode Nerd Font Mono, FiraCode Nerd Font, Fire Code, Fira Sans, Menlo, Monaco, 'Courier New', monospace`
 
 ### InteliJ
 
