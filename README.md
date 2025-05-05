@@ -56,6 +56,8 @@ Install:
                 font-work-sans --cask # font from the golang brand book
    ```
 
+   I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal.
+
 2. Applications:
 
    ```
@@ -236,7 +238,9 @@ code --install-extension ms-vscode.go
 code --install-extension vscodevim.vim
 ```
 
-Fonts: `Jetbrains Mono NL, Source Code Pro, Fira Sans, FiraCode Nerd Font, Fira Sans, FiraCode Nerd, Menlo, Monaco, 'Courier New', monospace`
+Settings -> User -> Font Family:
+
+`Jetbrains Mono, FiraCode Nerd Font Mono, FiraCode Nerd Font, Fire Code, Fira Sans, Menlo, Monaco, 'Courier New', monospace`
 
 ### InteliJ
 
