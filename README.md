@@ -93,7 +93,7 @@ Install:
    brew install gnu-typist
    ```
    
-3. Solid editor, many ideas in atom or vs-code are directly borrowed from sublime:
+3. Solid editor, very fast and reliable:
 
    ```
    brew install sublime-text --cask
@@ -114,20 +114,26 @@ Install:
    brew cask install visual-studio-code \
                      sourcetree # best GUI for git
    ```
-   
+
+   AI-first IDE, it supports more complex AI operations than vscode:
+
+   ```bash
+   brew install --cask zed
+   ```
+
    [Hub](https://hub.github.com/) for working with github:
 
    ```
    brew install hub
    ```
 
-1. Jetbrains:
+0. Jetbrains:
 
    ```
    brew install intellij-idea --cask
    ```
 
-2. Kubernetes:
+1. Kubernetes:
 
    ```
    brew install kubernetes-cli \
@@ -141,7 +147,7 @@ Install:
    brew install prometheus
    ```
    
-3. Cloud Platoforms
+2. Cloud Platoforms
 
    - Fundamentals:
    
@@ -157,7 +163,7 @@ Install:
      - ```brew install awscli```
      - install browser plugin for simplier switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
    
-4. Virtualbox with vagrant and packer:
+3. Virtualbox with vagrant and packer:
 
    ```
    brew cask install virtualbox \
@@ -165,7 +171,7 @@ Install:
                      packer
    ````
    
-5. Machine Learning:
+4. Machine Learning:
 
    ```
    brew cask install miniconda
