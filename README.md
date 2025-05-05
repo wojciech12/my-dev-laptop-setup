@@ -4,7 +4,7 @@
   - [Hardware](#hardware)
   - [Basics](#firststeps)
   - [Essentials](#basics)
-  - [Development Tools](#developmenttools)
+  - [Development Tools and AI](#developmenttools)
   - [Notes and Engineering Diary](#notes)
   - [Docs and Diagrams](#docsanddiagrams)
   - [Security](#security)
@@ -17,10 +17,10 @@
 ## Hardware
 <a name="hardware" />
 
-- Macbook Pro 16" or 14"
+* Macbook Pro 16" or 14"
 
 ## Installation
-<a name="instalation">
+<a name="instalation" />
 
 ### Basics
 <a name="firststeps" />
@@ -77,10 +77,6 @@ Install:
    ```
    
    ```
-   brew install --cast rancher
-   ```
-   
-   ```
    brew install discord --cask
    ```
 
@@ -115,7 +111,7 @@ Install:
    brew install michaelvillar-timer --cask
    ```   
 
-### Development Tools
+### Development Tools and AI
 <a name="developmenttools" />
 
 0. IDE / Coding Tools:
@@ -144,6 +140,10 @@ Install:
    ```
 
 1. Kubernetes:
+
+   ```
+   brew install --cast rancher
+   ```
 
    ```
    brew install kubernetes-cli \
@@ -186,7 +186,13 @@ Install:
    ```
    brew cask install miniconda
    ```
-   
+
+5. AI:
+
+   * Github Copilot for vscode and Zed
+   * Claude / Antropic console
+   * Cursor
+
 ### Notes
 <a name="appinstalledmanually" />
 
