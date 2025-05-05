@@ -117,8 +117,7 @@ Install:
 0. IDE / Coding Tools:
  
    ```
-   brew cask install visual-studio-code \
-                     sourcetree # best GUI for git
+   brew install visual-studio-code --cask
    ```
 
    AI-first IDE, it supports more complex AI operations than vscode:
@@ -127,19 +126,14 @@ Install:
    brew install --cask zed
    ```
 
-   [Hub](https://hub.github.com/) for working with github:
+1. SVC:
 
    ```
-   brew install hub
+   brew install hub # working 
+   brew install --cask sourcetree # best GUI for git
    ```
 
-0. Jetbrains:
-
-   ```
-   brew install intellij-idea --cask
-   ```
-
-1. Kubernetes:
+2. Kubernetes:
 
    ```
    brew install --cast rancher
@@ -157,7 +151,7 @@ Install:
    brew install prometheus
    ```
    
-2. Cloud Platoforms
+2. Cloud Platforms
 
    - Fundamentals:
    
