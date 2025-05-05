@@ -1,5 +1,6 @@
 # MacBook Pro Dev Setup
 
+## Table of Contents
 * [Installation](#installation)
   - [Hardware](#hardware)
   - [Basics](#firststeps)
@@ -8,13 +9,14 @@
   - [Notes and Engineering Diary](#notes)
   - [Docs and Diagrams](#docsanddiagrams)
   - [Security](#security)
-  - [misc](#misc)
+  - [Misc](#misc)
 * [Configuration](#configuration)
-* [MacOS configuration](#macos)
+* [MacOS Configuration](#macos)
   - [Finder](#macosfinder)
   - [Key Remapping](#osxkeyremapping)
 
 ## Hardware
+<a name="hardware"></a>
 
 * Macbook Pro 16" or 14"
 
@@ -34,7 +36,7 @@ Install:
 
 1. CLI
 
-   ```
+   ```bash
    brew install gnupg \
                 git \
                 jq \
@@ -51,7 +53,7 @@ Install:
 
 2. Fonts:
 
-   ```
+   ```bash
    brew install font-monaspace \
                 font-source-code-pro \
                 font-jetbrains-mono \
@@ -67,7 +69,7 @@ Install:
 
 3. Applications:
 
-   ```
+   ```bash
    brew install firefox \
                 iterm2 \
                 google-chrome \
@@ -75,46 +77,46 @@ Install:
                 slack --cask
    ```
    
-   ```
+   ```bash
    brew install discord --cask
    ```
 
    Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake)):
 
-   ```
+   ```bash
    brew install amethyst keepingyouawake --cask
    ```
 
    My favorite password manager:
 
-   ```
+   ```bash
    brew install keepassx --cask
    ```
    
    Good to practice typing from time to time:
    
-   ```
+   ```bash
    brew install gnu-typist
    ```
    
 4. Solid editor, very fast and reliable:
 
-   ```
+   ```bash
    brew install sublime-text --cask
    ```
    
 5. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
 
-   ```
+   ```bash
    brew install michaelvillar-timer --cask
    ```   
 
 ### Development Tools and AI
 <a name="developmenttools"></a>
 
-0. IDE / Coding Tools:
+1. IDE / Coding Tools:
  
-   ```
+   ```bash
    brew install visual-studio-code --cask
    ```
 
@@ -124,20 +126,20 @@ Install:
    brew install --cask zed
    ```
 
-1. SVC:
+2. SVC:
 
-   ```
+   ```bash
    brew install hub # working 
    brew install --cask sourcetree # best GUI for git
    ```
 
-2. Kubernetes:
+3. Kubernetes:
 
-   ```
-   brew install --cast rancher
+   ```bash
+   brew install --cask rancher
    ```
 
-   ```
+   ```bash
    brew install kubernetes-cli \
                 k3d \
                 kubectx
@@ -145,42 +147,47 @@ Install:
 
    Promtools:
 
-   ```
+   ```bash
    brew install prometheus
    ```
    
-3. Cloud Platforms
+4. Cloud Platforms
 
    - Fundamentals:
    
-     ```
+     ```bash
      brew install opentofu
      ```
      
      Check also [terragrunt](https://github.com/gruntwork-io/terragrunt)
 
-   - Azure: ```brew install azure-cli```
+   - Azure: 
+     ```bash
+     brew install azure-cli
+     ```
    - AWS (check also [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)):
    
-     - ```brew install awscli```
-     - install browser plugin for simplier switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
+     ```bash
+     brew install awscli
+     ```
+     - Install browser plugin for simpler switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
    
-4. Virtualbox with vagrant and packer:
+5. Virtualbox with vagrant and packer:
 
-   ```
+   ```bash
    brew install virtualbox vagrant packer --cask
    ```
    
-5. Machine Learning:
+6. Machine Learning:
 
-   ```
+   ```bash
    brew install miniconda --cask
    ```
 
-6. AI:
+7. AI:
 
    * Github Copilot for vscode and Zed
-   * LLMs: Claude/Antropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
+   * LLMs: Claude/Anthropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
    * Cursor
 
 ### Notes and Engineering Diary
@@ -193,13 +200,13 @@ TBA
 
 1. Latex - writings:
 
-   ```
+   ```bash
    brew install mactex --cask
    ```
 
 2. High Q diagrams:
 
-   ```
+   ```bash
    brew install yed --cask
    ```
 
@@ -216,8 +223,9 @@ See also:
 - https://blog.bejarano.io/hardening-macos/
 
 ### Misc
+<a name="misc"></a>
 
-- White noice generator: http://gnaural.sourceforge.net/help/JavaGnaural.html
+- White noise generator: http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ## Configuration
 <a name="configuration"></a>
@@ -232,7 +240,7 @@ see: https://github.com/nicolashery/mac-dev-setup#iterm2
 
 ### VSCode
 
-```
+```bash
 code --list-extensions
 
 code --install-extension ms-python.python
@@ -244,7 +252,7 @@ Settings -> User -> Font Family:
 
 `Jetbrains Mono, Iosevka Term, FiraCode Nerd Font Mono, FiraCode Nerd Font, Fire Code, Fira Sans, Menlo, Monaco, 'Courier New', monospace`
 
-### InteliJ
+### IntelliJ
 
 TBD
 
@@ -254,7 +262,7 @@ Install [zprezto](https://github.com/sorin-ionescu/prezto), alternative [ohmyzsh
 
 Plugins, I use:
 
-```
+```bash
 zstyle ':prezto:load' pmodule \
   'environment' \
   'terminal' \
@@ -303,7 +311,7 @@ Set default search engine to google.com with no localization, see [my blog post]
    - Under Firewall, click Turn Firewall On.
    - Under Privacy, select Analytics and ensure that the options are not enabled.
 
-2. Enable file enryption.
+2. Enable file encryption.
 
 3. Configure a hot corner - bottom left to lock the Screen - see: https://www.cnet.com/how-to/7-ways-to-lock-your-macbook/
 
@@ -314,7 +322,7 @@ Set default search engine to google.com with no localization, see [my blog post]
 
 1. Add Hard Disk to locations
 2. Put home dir to favorites
-3. View -> Show Path Ba
+3. View -> Show Path Bar
 
 ### Keys re-mapping
 <a name="osxkeyremapping"></a>
