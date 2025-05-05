@@ -55,8 +55,10 @@ Install:
    brew install font-monaspace \
                 font-source-code-pro \
                 font-jetbrains-mono \
+                font-jetbrains-mono-nerd-font \
                 font-fira-code-nerd-font \
                 font-fira-sans \
+                font-iosevka \
                 font-work-sans --cask # font from the golang brand book
    ```
 
