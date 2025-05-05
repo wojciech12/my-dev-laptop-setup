@@ -189,11 +189,23 @@ Install:
    * Github Copilot for vscode and Zed
    * LLMs: Claude/Anthropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
    * Cursor
-
+   
+   Local LLM runner:
+   
+   ```bash
+   brew install --cask ollama
+   ```
+   
 ### Notes and Engineering Diary
 <a name="notes"></a>
 
-TBA
+1. Knowledge base and note-taking:
+
+   ```bash
+   brew install --cask obsidian
+   ```
+
+   Obsidian is a powerful knowledge base and note-taking application that works on top of a local folder of plain text Markdown files. It features linking between notes, graph view, and a plugin ecosystem.
 
 ### Apps for Docs, Diagrams, etc
 <a name="docsanddiagrams"></a>
@@ -215,7 +227,11 @@ TBA
 ### Security
 <a name="security"></a>
 
-- Firewall [Lulu](https://github.com/objective-see/LuLu) 
+- Firewall [Lulu](https://github.com/objective-see/LuLu)
+- Premium password manager:
+  ```bash
+  brew install --cask 1password
+  ```
 
 See also: 
 
@@ -236,7 +252,7 @@ see: https://github.com/nicolashery/mac-dev-setup#iterm2
   
 - Atom One Dark or Pastel (Dark Background)
 - Alert: visual
-- Font: font-fira-code-nerd-font (font-hack)
+- Font Configuration: JetBrains Mono and enable ligatures
 
 ### VSCode
 
@@ -246,6 +262,9 @@ code --list-extensions
 code --install-extension ms-python.python
 code --install-extension ms-vscode.go
 code --install-extension vscodevim.vim
+code --install-extension GitHub.copilot
+code --install-extension GitHub.copilot-chat
+code --install-extension eamodio.gitlens
 ```
 
 Settings -> User -> Font Family:
