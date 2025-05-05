@@ -184,7 +184,7 @@ Install:
 5. AI:
 
    * Github Copilot for vscode and Zed
-   * LLMS: Claude/Antropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
+   * LLMs: Claude/Antropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
    * Cursor
 
 ### Notes
