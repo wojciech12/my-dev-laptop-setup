@@ -48,9 +48,6 @@ Install:
 2. Fonts:
 
    ```
-  
-   brew tap homebrew/cask-fonts 
-   brew install svn
    brew install font-monaspace \
                 font-source-code-pro \
                 font-jetbrains-mono \
@@ -123,20 +120,11 @@ Install:
    ```
    brew install hub
    ```
-   
-   Db:
-   
-   ```
-   brew cask install nosqlbooster-for-mongodb
-   # mongo CLI
-   brew tap mongodb/brew
-   brew install mongodb-community@3.6
-   ```
-   
+
 1. Jetbrains:
 
    ```
-   brew cask install intellij-idea
+   brew install intellij-idea --cask
    ```
 
 2. Kubernetes:
@@ -144,15 +132,7 @@ Install:
    ```
    brew install kubernetes-cli \
                 k3d \
-                minikube \
                 kubectx
-   ```
-
-   [Telepresence](https://www.telepresence.io/):
-   
-   ```
-   brew cask install osxfuse
-   brew install datawire/blackbird/telepresence
    ```
 
    Promtools:
@@ -176,16 +156,8 @@ Install:
    
      - ```brew install awscli```
      - install browser plugin for simplier switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
-
-4. [Gopass](https://github.com/gopasspw/gopass/) - sharing secrets with git and gpg:
    
-   ```
-   brew install gopass
-   ```
-   
-   Works really well with scripts for setting your infrastructure.
-   
-5. Virtualbox with vagrant and packer:
+4. Virtualbox with vagrant and packer:
 
    ```
    brew cask install virtualbox \
@@ -193,33 +165,16 @@ Install:
                      packer
    ````
    
-6. Machine Learning:
+5. Machine Learning:
 
    ```
-   brew cask install anaconda
+   brew cask install miniconda
    ```
    
 ### Notes
 <a name="appinstalledmanually" />
 
-So far zim-wiki works for me the best.
-
-```
-brew install python@3 \
-             gtk-mac-integration \
-             pygobject3 \
-             adwaita-icon-theme # for icons in the zim-wiki UI
-
-brew install zim
-```
-  
-and create in Automator - Application that runs a shell script:
-
-```
-zim
-```
-
-Now, let's install zim-wiki plugins: Journal and TODO.
+TBA - 
 
 ### Apps for Docs, Diagrams, etc
 <a name="docsanddiagrams" />
@@ -274,6 +229,8 @@ code --install-extension ms-python.python
 code --install-extension ms-vscode.go
 code --install-extension vscodevim.vim
 ```
+
+Fonts: `Jetbrains Mono NL, Source Code Pro, Fira Sans, FiraCode Nerd Font, Fira Sans, FiraCode Nerd, Menlo, Monaco, 'Courier New', monospace`
 
 ### InteliJ
 
