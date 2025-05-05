@@ -59,10 +59,11 @@ Install:
                 font-fira-code-nerd-font \
                 font-fira-sans \
                 font-iosevka \
+                font-iosevka-term-nerd-font \
                 font-work-sans --cask # font from the golang brand book
    ```
 
-   I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal. `Source Code Pro` is also very readable font family.
+   I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal. `Source Code Pro` and `Iosevka Term` are also very readable font family.
 
 2. Applications:
 
