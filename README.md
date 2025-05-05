@@ -174,7 +174,7 @@ Install:
 ### Notes
 <a name="appinstalledmanually" />
 
-TBA - 
+TBA
 
 ### Apps for Docs, Diagrams, etc
 <a name="docsanddiagrams" />
