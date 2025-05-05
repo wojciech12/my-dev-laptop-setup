@@ -1,7 +1,8 @@
 # MacBook Pro Dev Setup
 
 * [Installation](#instalation)
-  - [First steps](#firststeps)
+  - [Hardware](#hardware)
+  - [Basics](#firststeps)
   - [Essentials](#basics)
   - [Development Tools](#developmenttools)
   - [Notes and Engineering Diary](#notes)
@@ -13,21 +14,21 @@
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
 
-## MacBook
+## Hardware
+<a name="hardware" />
 
 - Macbook Pro 16" or 14"
 
 ## Installation
 <a name="instalation">
 
-### First steps
+### Basics
 <a name="firststeps" />
 
 Install:
 
 - [brew](https://brew.sh/) - package manager for installing all other software
 - [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
-
 
 ### Essentials
 <a name="basics" />
