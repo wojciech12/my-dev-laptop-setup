@@ -1,6 +1,6 @@
 # MacBook Pro Dev Setup
 
-* [Installation](#instalation)
+* [Installation](#installation)
   - [Hardware](#hardware)
   - [Basics](#firststeps)
   - [Essentials](#basics)
@@ -12,18 +12,17 @@
 * [Configuration](#configuration)
 * [MacOS configuration](#macos)
   - [Finder](#macosfinder)
-  - [Key Remmaping](#osxkeyremapping)
+  - [Key Remapping](#osxkeyremapping)
 
 ## Hardware
-<a name="hardware" />
 
 * Macbook Pro 16" or 14"
 
 ## Installation
-<a name="instalation" />
+<a name="installation"></a>
 
 ### Basics
-<a name="firststeps" />
+<a name="firststeps"></a>
 
 Install:
 
@@ -31,7 +30,7 @@ Install:
 - [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
 
 ### Essentials
-<a name="basics" />
+<a name="basics"></a>
 
 1. CLI
 
@@ -66,7 +65,7 @@ Install:
 
    I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal. `Source Code Pro` and `Iosevka Term` are also very readable font families.
 
-2. Applications:
+3. Applications:
 
    ```
    brew install firefox \
@@ -83,14 +82,13 @@ Install:
    Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake)):
 
    ```
-   brew cask install amethyst \
-                     keepingyouawake
+   brew install amethyst keepingyouawake --cask
    ```
 
    My favorite password manager:
 
    ```
-   brew cask install keepassx 
+   brew install keepassx --cask
    ```
    
    Good to practice typing from time to time:
@@ -99,20 +97,20 @@ Install:
    brew install gnu-typist
    ```
    
-3. Solid editor, very fast and reliable:
+4. Solid editor, very fast and reliable:
 
    ```
    brew install sublime-text --cask
    ```
    
-4. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
+5. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
 
    ```
    brew install michaelvillar-timer --cask
    ```   
 
 ### Development Tools and AI
-<a name="developmenttools" />
+<a name="developmenttools"></a>
 
 0. IDE / Coding Tools:
  
@@ -151,7 +149,7 @@ Install:
    brew install prometheus
    ```
    
-2. Cloud Platforms
+3. Cloud Platforms
 
    - Fundamentals:
    
@@ -167,52 +165,48 @@ Install:
      - ```brew install awscli```
      - install browser plugin for simplier switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
    
-3. Virtualbox with vagrant and packer:
+4. Virtualbox with vagrant and packer:
 
    ```
-   brew cask install virtualbox \
-                     vagrant \
-                     packer
-   ````
+   brew install virtualbox vagrant packer --cask
+   ```
    
-4. Machine Learning:
+5. Machine Learning:
 
    ```
-   brew cask install miniconda
+   brew install miniconda --cask
    ```
 
-5. AI:
+6. AI:
 
    * Github Copilot for vscode and Zed
    * LLMs: Claude/Antropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
    * Cursor
 
-### Notes
-<a name="appinstalledmanually" />
+### Notes and Engineering Diary
+<a name="notes"></a>
 
 TBA
 
 ### Apps for Docs, Diagrams, etc
-<a name="docsanddiagrams" />
+<a name="docsanddiagrams"></a>
 
 1. Latex - writings:
 
    ```
-   brew cask install mactex 
+   brew install mactex --cask
    ```
 
 2. High Q diagrams:
 
    ```
-   brew cask install yed
+   brew install yed --cask
    ```
 
 <!-- TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas). -->
 
-<a name="docsanddiagrams" />
-
 ### Security
-<a name="security">
+<a name="security"></a>
 
 - Firewall [Lulu](https://github.com/objective-see/LuLu) 
 
@@ -226,7 +220,7 @@ See also:
 - White noice generator: http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ## Configuration
-<a name="configuration" />
+<a name="configuration"></a>
 
 ### Iterm2
 
@@ -297,10 +291,10 @@ TBD
 Set default search engine to google.com with no localization, see [my blog post](http://wbarczynski.pl/when-google-localization-drives-you-nuts/).
 
 ## Mac Configuration
-<a name="macs" />
+<a name="macos"></a>
 
 ### Security
-<a name="macossecurity" />
+<a name="macossecurity"></a>
 
 1. Select System Preferences > Security & Privacy:
 
@@ -316,14 +310,14 @@ Set default search engine to google.com with no localization, see [my blog post]
 4. Use password manager.
 
 ### Finder
-<a name="macosfinder" />
+<a name="macosfinder"></a>
 
 1. Add Hard Disk to locations
 2. Put home dir to favorites
 3. View -> Show Path Ba
 
 ### Keys re-mapping
-<a name="osxkeyremapping" />
+<a name="osxkeyremapping"></a>
 
 1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys
 
