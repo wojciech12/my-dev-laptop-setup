@@ -1,4 +1,4 @@
-# MAC Dev Setup
+# MacBook Pro Dev Setup
 
 * [Installation](#instalation)
   - [First steps](#firststeps)
@@ -12,6 +12,10 @@
 * [MacOS configuration](#macos)
   - [Finder](#macosfinder)
   - [Key Remmaping](#osxkeyremapping)
+
+## MacBook
+
+- Macbook Pro 16" or 14"
 
 ## Installation
 <a name="instalation">
