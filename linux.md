@@ -1,5 +1,20 @@
 # Linux / Ubuntu / Kubuntu
 
+## Hardware
+<a name="hardware"></a>
+
+* TBA
+
+## Installation
+<a name="installation"></a>
+
+### Basics
+<a name="firststeps"></a>
+
+Install:
+
+- [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
+
 ### Essentials
 
 1. CLI
@@ -38,8 +53,21 @@
 
    Slack: download deb from the slack website and install.
 
-
 ### Development Tools and AI
 <a name="developmenttools"></a>
 
 1. vscode - https://code.visualstudio.com/docs/setup/linux
+
+2. 
+
+
+
+
+TBA
+
+
+Security:
+
+```bash
+apt install yubikey-manager 
+```
