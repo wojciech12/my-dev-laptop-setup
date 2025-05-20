@@ -34,6 +34,8 @@
    sudo apt-get install -y \
       firefox \
       chromium-browser \
-      slack-desktop
    ```
 
+   ```bash
+   sudo snap install slack
+   ```
