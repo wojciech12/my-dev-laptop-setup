@@ -19,15 +19,11 @@
 
    ```bash
    sudo apt-get install -y \
-       fonts-firacode \
-       fonts-firacode-nerd \
-       fonts-jetbrains-mono \
-       fonts-jetbrains-mono-nerd \
-       fonts-fira-sans \
-       fonts-iosevka \
-       fonts-iosevka-nerd \
-       fonts-work-sans
+        fonts-firacode \
+        fonts-jetbrains-mono
    ```
+
+  TBA: add script for installing: `fonts-iosevka`, `fonts-iosevka-nerd`, and `monaspace`.
 
 ### Applications
 
