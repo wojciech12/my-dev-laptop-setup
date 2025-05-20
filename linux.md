@@ -36,6 +36,10 @@
       chromium-browser \
    ```
 
-   ```bash
-   sudo snap install slack
-   ```
+   Slack: download deb from the slack website and install.
+
+
+### Development Tools and AI
+<a name="developmenttools"></a>
+
+1. vscode - https://code.visualstudio.com/docs/setup/linux
