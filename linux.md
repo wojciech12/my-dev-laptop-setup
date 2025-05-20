@@ -12,7 +12,8 @@
         golang-go \
         python3 \
         httpie \
-        neovim
+        neovim \
+        curl
     ```
 
 2. Fonts
