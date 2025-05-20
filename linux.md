@@ -25,6 +25,14 @@
 
   TBA: add script for installing: `fonts-iosevka`, `fonts-iosevka-nerd`, and `monaspace`.
 
-### Applications
+3. Applications
 
-_TBA_
+   Terminal-multiplexer: [kitty](https://sw.kovidgoyal.net/kitty/) - [Installations](https://sw.kovidgoyal.net/kitty/binary)
+
+   ```bash
+   sudo apt-get install -y \
+      firefox \
+      chromium-browser \
+      slack-desktop
+   ```
+
