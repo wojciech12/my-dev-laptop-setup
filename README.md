@@ -1,7 +1,8 @@
 # MacBook Pro Dev Setup
 
 ## Table of Contents
-* [Installation](#installation)
+
+- [Installation](#installation)
   - [Hardware](#hardware)
   - [Basics](#firststeps)
   - [Essentials](#basics)
@@ -10,20 +11,23 @@
   - [Docs and Diagrams](#docsanddiagrams)
   - [Security](#security)
   - [Misc](#misc)
-* [Configuration](#configuration)
-* [MacOS Configuration](#macos)
+- [Configuration](#configuration)
+- [MacOS Configuration](#macos)
   - [Finder](#macosfinder)
   - [Key Remapping](#osxkeyremapping)
 
 ## Hardware
+
 <a name="hardware"></a>
 
-* Macbook Pro 16" or 14"
+- Macbook Pro 16" or 14"
 
 ## Installation
+
 <a name="installation"></a>
 
 ### Basics
+
 <a name="firststeps"></a>
 
 Install:
@@ -32,6 +36,7 @@ Install:
 - [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
 
 ### Essentials
+
 <a name="basics"></a>
 
 1. CLI
@@ -48,7 +53,7 @@ Install:
                 ack \
                 pyenv \
                 watch \
-                neovim # add alias alias vim='nvim'   
+                neovim # add alias alias vim='nvim'
    ```
 
 2. Fonts:
@@ -76,7 +81,7 @@ Install:
                 opera \
                 slack --cask
    ```
-   
+
    ```bash
    brew install discord --cask
    ```
@@ -92,30 +97,31 @@ Install:
    ```bash
    brew install keepassx --cask
    ```
-   
+
    Good to practice typing from time to time:
-   
+
    ```bash
    brew install gnu-typist
    ```
-   
+
 4. Solid editor, very fast and reliable:
 
    ```bash
    brew install sublime-text --cask
    ```
-   
+
 5. A simple timer for [pomodoro](https://francescocirillo.com/pages/pomodoro-technique):
 
    ```bash
    brew install michaelvillar-timer --cask
-   ```   
+   ```
 
 ### Development Tools and AI
+
 <a name="developmenttools"></a>
 
 1. IDE / Coding Tools:
- 
+
    ```bash
    brew install visual-studio-code --cask
    ```
@@ -129,7 +135,7 @@ Install:
 2. SVC:
 
    ```bash
-   brew install hub # working 
+   brew install hub # working
    brew install --cask sourcetree # best GUI for git
    ```
 
@@ -150,34 +156,34 @@ Install:
    ```bash
    brew install prometheus
    ```
-   
-4. Cloud Platforms
 
+4. Cloud Platforms
    - Fundamentals:
-   
+
      ```bash
      brew install opentofu
      ```
-     
+
      Check also [terragrunt](https://github.com/gruntwork-io/terragrunt)
 
-   - Azure: 
+   - Azure:
      ```bash
      brew install azure-cli
      ```
    - AWS (check also [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-macos.html)):
-   
+
      ```bash
      brew install awscli
      ```
+
      - Install browser plugin for simpler switching between roles: [aws-extend-switch-roles](https://github.com/tilfin/aws-extend-switch-roles)
-   
+
 5. Virtualbox with vagrant and packer:
 
    ```bash
    brew install virtualbox vagrant packer --cask
    ```
-   
+
 6. Machine Learning:
 
    ```bash
@@ -185,18 +191,18 @@ Install:
    ```
 
 7. AI:
+   - Github Copilot for vscode and Zed
+   - LLMs: Claude/Anthropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
+   - Cursor
 
-   * Github Copilot for vscode and Zed
-   * LLMs: Claude/Anthropic console + Gemini + OpenAI (not so good results as others at the moment – May 2025)
-   * Cursor
-   
    Local LLM runner:
-   
+
    ```bash
    brew install --cask ollama
    ```
-   
+
 ### Notes and Engineering Diary
+
 <a name="notes"></a>
 
 1. Knowledge base and note-taking:
@@ -208,6 +214,7 @@ Install:
    Obsidian is a powerful knowledge base and note-taking application that works on top of a local folder of plain text Markdown files. It features linking between notes, graph view, and a plugin ecosystem.
 
 ### Apps for Docs, Diagrams, etc
+
 <a name="docsanddiagrams"></a>
 
 1. Latex - writings:
@@ -225,6 +232,7 @@ Install:
 <!-- TBD: If you need an app from App Store, consider [mas](https://github.com/mas-cli/mas). -->
 
 ### Security
+
 <a name="security"></a>
 
 - Firewall [Lulu](https://github.com/objective-see/LuLu)
@@ -233,23 +241,25 @@ Install:
   brew install --cask 1password
   ```
 
-See also: 
+See also:
 
 - https://github.com/0xmachos/mOSL
 - https://blog.bejarano.io/hardening-macos/
 
 ### Misc
+
 <a name="misc"></a>
 
 - White noise generator: http://gnaural.sourceforge.net/help/JavaGnaural.html
 
 ## Configuration
+
 <a name="configuration"></a>
 
 ### Iterm2
 
 see: https://github.com/nicolashery/mac-dev-setup#iterm2
-  
+
 - Atom One Dark or Pastel (Dark Background)
 - Alert: visual
 - Font Configuration: JetBrains Mono and enable ligatures
@@ -308,23 +318,22 @@ TBD
 ## Browsers
 
 - Firefox (90% what I do), addons:
-
   - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/)
 
 - Chrome (for internal tools: github panel, aws console, azure...):
-
   - [Refined Github](https://github.com/sindresorhus/refined-github)
 
 Set default search engine to google.com with no localization, see [my blog post](http://wbarczynski.pl/when-google-localization-drives-you-nuts/).
 
 ## Mac Configuration
+
 <a name="macos"></a>
 
 ### Security
+
 <a name="macossecurity"></a>
 
 1. Select System Preferences > Security & Privacy:
-
    - Under General, set require a password after sleep or screen saver begins to immediately
    - Click Advanced… and select Require an administrator password to access system-wide preferences
    - Under Firewall, click Turn Firewall On.
@@ -337,6 +346,7 @@ Set default search engine to google.com with no localization, see [my blog post]
 4. Use password manager.
 
 ### Finder
+
 <a name="macosfinder"></a>
 
 1. Add Hard Disk to locations
@@ -344,6 +354,7 @@ Set default search engine to google.com with no localization, see [my blog post]
 3. View -> Show Path Bar
 
 ### Keys re-mapping
+
 <a name="osxkeyremapping"></a>
 
 1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys

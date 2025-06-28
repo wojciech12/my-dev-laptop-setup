@@ -1,14 +1,17 @@
 # Linux / Ubuntu / Kubuntu
 
 ## Hardware
+
 <a name="hardware"></a>
 
-* TBA
+- TBA
 
 ## Installation
+
 <a name="installation"></a>
 
 ### Basics
+
 <a name="firststeps"></a>
 
 Install:
@@ -29,7 +32,7 @@ Install:
         httpie \
         neovim \
         curl
-    ```
+   ```
 
 2. Fonts
 
@@ -39,7 +42,7 @@ Install:
         fonts-jetbrains-mono
    ```
 
-  TBA: add script for installing: `fonts-iosevka`, `fonts-iosevka-nerd`, and `monaspace`.
+TBA: add script for installing: `fonts-iosevka`, `fonts-iosevka-nerd`, and `monaspace`.
 
 3. Applications
 
@@ -54,20 +57,17 @@ Install:
    Slack: download deb from the slack website and install.
 
 ### Development Tools and AI
+
 <a name="developmenttools"></a>
 
 1. vscode - https://code.visualstudio.com/docs/setup/linux
 
-2. 
-
-
-
+2.
 
 TBA
-
 
 Security:
 
 ```bash
-apt install yubikey-manager 
+apt install yubikey-manager
 ```
