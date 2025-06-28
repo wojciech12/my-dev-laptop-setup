@@ -145,6 +145,8 @@ Install:
    brew install git-delta
    ```
 
+   You will find the git configuration on the [delta github](https://github.com/dandavison/delta).
+
 3. Kubernetes:
 
    ```bash
