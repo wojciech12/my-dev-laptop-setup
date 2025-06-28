@@ -139,6 +139,12 @@ Install:
    brew install --cask sourcetree # best GUI for git
    ```
 
+   Delta;
+
+   ```bash
+   brew install git-delta
+   ```
+
 3. Kubernetes:
 
    ```bash
