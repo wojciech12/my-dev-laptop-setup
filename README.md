@@ -56,6 +56,10 @@ Install:
                 neovim # add alias alias vim='nvim'
    ```
 
+   ```bash
+   brew install eza
+   ```
+
 2. Fonts:
 
    ```bash
