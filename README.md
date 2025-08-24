@@ -57,7 +57,9 @@ Install:
    ```
 
    ```bash
-   brew install eza
+   brew install eza \
+                ripgrep \
+                gh
    ```
 
 2. Fonts:
