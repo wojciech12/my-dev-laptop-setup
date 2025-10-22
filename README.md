@@ -92,10 +92,17 @@ Install:
    brew install discord --cask
    ```
 
-   Utils ([Amethyst](https://ianyh.com/amethyst/) and [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake)):
+   Windows management [Amethyst](https://ianyh.com/amethyst/) and [AeroSpace](https://github.com/nikitabobko/AeroSpace):
 
    ```bash
-   brew install amethyst keepingyouawake --cask
+   brew install amethyst --cask
+   brew install --cask nikitabobko/tap/aerospace
+   ```
+
+   Utils - [keepingyouawake](https://github.com/newmarcel/KeepingYouAwake):
+
+   ```bash
+   brew install keepingyouawake --cask
    ```
 
    My favorite password manager:
