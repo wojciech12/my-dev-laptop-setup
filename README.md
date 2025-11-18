@@ -346,7 +346,10 @@ TBD
 
 Set default search engine to google.com with no localization, see [my blog post](http://wbarczynski.pl/when-google-localization-drives-you-nuts/).
 
-See: https://mycroftproject.com/google-search-plugins.html
+See:
+
+- https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/
+- https://mycroftproject.com/google-search-plugins.html
 
 ## Mac Configuration
 
