@@ -346,6 +346,8 @@ TBD
 
 Set default search engine to google.com with no localization, see [my blog post](http://wbarczynski.pl/when-google-localization-drives-you-nuts/).
 
+See: https://mycroftproject.com/google-search-plugins.html
+
 ## Mac Configuration
 
 <a name="macos"></a>
