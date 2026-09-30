@@ -10,6 +10,8 @@ Config `.zimrc`:
 
 ```zsh
 zmodule fzf
+
+zmodule ohmyzsh/ohmyzsh --source lib/directories.zsh
 ```
 
 Config `.zshrc`:
