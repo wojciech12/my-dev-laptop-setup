@@ -6,7 +6,7 @@ brew install fzf
 brew install zoxide
 ```
 
-Config ``:
+Config `.zimrc`:
 
 ```zsh
 zmodule fzf
