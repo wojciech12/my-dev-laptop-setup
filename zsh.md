@@ -11,3 +11,9 @@ Config `.zimrc`:
 ```zsh
 zmodule fzf
 ```
+
+Config `.zshrc`:
+
+```bash
+eval "$(zoxide init zsh)"
+```
