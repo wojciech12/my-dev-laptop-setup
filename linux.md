@@ -14,9 +14,7 @@
 
 <a name="firststeps"></a>
 
-Install:
-
-- [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
+for zsh config see [zsh.md](./zsh.md)
 
 ### Essentials
 
