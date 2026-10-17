@@ -17,7 +17,7 @@
 Install:
 
 - [brew](https://brew.sh/) - package manager for installing all other software
-- [zimfw](https://github.com/zimfw/zimfw) to install zsh CLI plugins
+- [zimfw](https://github.com/zimfw/zimfw) to install zsh CLI plugins - see [zsh.md](zsh.md)
 
 ### Essentials
 
@@ -37,7 +37,7 @@ Install:
                 ack \
                 pyenv \
                 watch \
-                neovim # add alias alias vim='nvim'
+                neovim # alias in zsh.md
    ```
 
    ```bash
@@ -277,6 +277,16 @@ See also:
 
 4. Use password manager.
 
+### Iterm2
+
+<a name="macositerm2"></a>
+
+see: https://github.com/nicolashery/mac-dev-setup#iterm2
+
+- Atom One Dark or Pastel (Dark Background)
+- Alert: visual
+- Font Configuration: JetBrains Mono and enable ligatures
+
 ### Finder
 
 <a name="macosfinder"></a>
@@ -290,3 +300,11 @@ See also:
 <a name="osxkeyremapping"></a>
 
 1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys
+
+## References
+
+- https://www.stuartellis.name/articles/mac-setup/
+- https://sourabhbajaj.com/mac-setup/
+- https://github.com/nicolashery/mac-dev-setup
+- https://www.freecodecamp.org/news/set-up-your-macos-development-environment-using-thoughtbots-laptop-script-e6bf9b2e03dd/
+- https://ubiratansoares.dev/post/my-macos-setup/

@@ -49,7 +49,7 @@ TBA: add script for installing: `fonts-iosevka`, `fonts-iosevka-nerd`, and `mona
    ```bash
    sudo apt-get install -y \
       firefox \
-      chromium-browser \
+      chromium-browser
    ```
 
    Slack: download deb from the slack website and install.
