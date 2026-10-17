@@ -32,15 +32,7 @@ for zsh config see [zsh.md](./zsh.md)
         curl
    ```
 
-2. Fonts
-
-   ```bash
-   sudo apt-get install -y \
-        fonts-firacode \
-        fonts-jetbrains-mono
-   ```
-
-TBA: add script for installing: `fonts-iosevka`, `fonts-iosevka-nerd`, and `monaspace`.
+2. Fonts: see [fonts.md](fonts.md#linux--ubuntu--kubuntu)
 
 3. Applications
 

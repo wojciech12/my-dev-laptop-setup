@@ -46,21 +46,7 @@ Install:
                 gh
    ```
 
-2. Fonts:
-
-   ```bash
-   brew install font-monaspace \
-                font-source-code-pro \
-                font-jetbrains-mono \
-                font-jetbrains-mono-nerd-font \
-                font-fira-code-nerd-font \
-                font-fira-sans \
-                font-iosevka \
-                font-iosevka-term-nerd-font \
-                font-work-sans --cask # font from the golang brand book
-   ```
-
-   I use `Jetbrains Mono` or/and `FiraCode Nerd Font Mono` in all my development tools and terminal. `Source Code Pro` and `Iosevka Term` are also very readable font families.
+2. Fonts: see [fonts.md](fonts.md#macos)
 
 3. Applications:
 
@@ -285,7 +271,7 @@ see: https://github.com/nicolashery/mac-dev-setup#iterm2
 
 - Atom One Dark or Pastel (Dark Background)
 - Alert: visual
-- Font Configuration: JetBrains Mono and enable ligatures
+- Font Configuration: see [fonts.md](fonts.md#terminal)
 
 ### Finder
 

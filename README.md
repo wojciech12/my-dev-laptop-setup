@@ -10,6 +10,7 @@
   - [Key Remapping](macos.md#osxkeyremapping)
 - [Linux / Ubuntu / Kubuntu](linux.md) - installation (apt)
 - [zsh](zsh.md) - zimfw, fzf, zoxide, aliases
+- [Fonts](fonts.md) - chosen fonts, installation and editor/terminal settings
 - [Configuration](#configuration) - cross-platform tools
 - [Browsers](#browsers)
 
@@ -30,9 +31,7 @@ code --install-extension GitHub.copilot-chat
 code --install-extension eamodio.gitlens
 ```
 
-Settings -> User -> Font Family:
-
-`Jetbrains Mono, Iosevka Term, FiraCode Nerd Font Mono, FiraCode Nerd Font, Fire Code, Fira Sans, Menlo, Monaco, 'Courier New', monospace`
+Font Family: see [fonts.md](fonts.md#vscode).
 
 ### CLI: zsh
 
