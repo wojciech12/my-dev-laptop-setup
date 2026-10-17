@@ -12,9 +12,10 @@
   - [Security](#security)
   - [Misc](#misc)
 - [Configuration](#configuration)
-- [MacOS Configuration](#macos)
-  - [Finder](#macosfinder)
-  - [Key Remapping](#osxkeyremapping)
+- [MacOS Configuration](macos.md)
+  - [Security](macos.md#macossecurity)
+  - [Finder](macos.md#macosfinder)
+  - [Key Remapping](macos.md#osxkeyremapping)
 
 ## Hardware
 
@@ -33,7 +34,7 @@
 Install:
 
 - [brew](https://brew.sh/) - package manager for installing all other software
-- [zprezto](https://github.com/sorin-ionescu/prezto) to install zsh CLI plugins
+- [zimfw](https://github.com/zimfw/zimfw) to install zsh CLI plugins
 
 ### Essentials
 
@@ -308,30 +309,6 @@ TBD
 
 ### CLI: zprezto
 
-Install [zprezto](https://github.com/sorin-ionescu/prezto), alternative [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh).
-
-Plugins, I use:
-
-```bash
-zstyle ':prezto:load' pmodule \
-  'environment' \
-  'terminal' \
-  'editor' \
-  'history' \
-  'directory' \
-  'spectrum' \
-  'completion' \
-  'prompt' \
-  'git' \
-  'osx' \
-  'tmux' \
-  'fasd' \
-  'gnu-utility' \
-  'utility' \
-  'syntax-highlighting' \
-  'history-substring-search'
-```
-
 ### CLI: aliases
 
 TBD
@@ -355,35 +332,7 @@ See:
 
 <a name="macos"></a>
 
-### Security
-
-<a name="macossecurity"></a>
-
-1. Select System Preferences > Security & Privacy:
-   - Under General, set require a password after sleep or screen saver begins to immediately
-   - Click Advanced… and select Require an administrator password to access system-wide preferences
-   - Under Firewall, click Turn Firewall On.
-   - Under Privacy, select Analytics and ensure that the options are not enabled.
-
-2. Enable file encryption.
-
-3. Configure a hot corner - bottom left to lock the Screen - see: https://www.cnet.com/how-to/7-ways-to-lock-your-macbook/
-
-4. Use password manager.
-
-### Finder
-
-<a name="macosfinder"></a>
-
-1. Add Hard Disk to locations
-2. Put home dir to favorites
-3. View -> Show Path Bar
-
-### Keys re-mapping
-
-<a name="osxkeyremapping"></a>
-
-1. capslock -> ESC in Preference -> Keyboard -> Modifier Keys
+See [macos.md](macos.md) for security, Finder and key re-mapping settings.
 
 ## References
 
