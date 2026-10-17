@@ -34,10 +34,6 @@ Settings -> User -> Font Family:
 
 `Jetbrains Mono, Iosevka Term, FiraCode Nerd Font Mono, FiraCode Nerd Font, Fire Code, Fira Sans, Menlo, Monaco, 'Courier New', monospace`
 
-### IntelliJ
-
-TBD
-
 ### CLI: zsh
 
 See [zsh.md](zsh.md).

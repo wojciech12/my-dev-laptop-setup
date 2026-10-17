@@ -71,4 +71,3 @@ apt install yubikey-manager
 ```
 
 3. Siging commits - [pineentry](https://wiki.archlinux.org/title/GnuPG) + [gen gpg github](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
-    
